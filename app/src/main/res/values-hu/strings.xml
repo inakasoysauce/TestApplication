@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+    <string name="type_your_code">Írd be a kódod</string>
+    <string name="send">Küldés</string>
+    <string name="error">Valami hiba történt</string>
+    <string name="code_sent">Kód sikeresen elküldve</string>
+    <string name="confirm_journey">Utazás visszaigazolása!</string>
+    <string name="save">Mentés</string>
+    <string name="lang_code">hu</string>
+    <string-array name="menu_list">
+        <item>Kezdőlap</item>
+        <item>Lista</item>
+        <item>Beállítások</item>
+    </string-array>
+</resources>

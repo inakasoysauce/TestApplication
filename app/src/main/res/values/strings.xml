@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+    <string name="type_your_code">Type your code</string>
+    <string name="send">Send</string>
+    <string name="error">Something wrong happened</string>
+    <string name="code_sent">Code sent successfully</string>
+    <string name="confirm_journey">Confirm journey!</string>
+    <string name="english" translatable="false">English</string>
+    <string name="magyar" translatable="false">Magyar</string>
+    <string name="save">Save</string>
+    <string name="lang_code">en</string>
+    <string-array name="menu_list">
+        <item>Home</item>
+        <item>List</item>
+        <item>Settings</item>
+    </string-array>
+
+
+</resources>
